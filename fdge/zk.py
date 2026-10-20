@@ -1,0 +1,2 @@
+class ProofBackendUnavailable(NotImplementedError):
+    pass
