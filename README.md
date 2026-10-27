@@ -1,4 +1,4 @@
-## LatGE
+## GE
 This repository provides the experimental artifact for our paper. It contains a full of implementation and evaluation of our scheme latge, and reproduces the previous fdge scheme.
  
 ## Code Organization
